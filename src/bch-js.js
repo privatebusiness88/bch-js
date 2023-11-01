@@ -120,4 +120,4 @@ class BCHJS {
   }
 }
 
-module.exports = BCHJS
+module.exports = BCH-JS.js
